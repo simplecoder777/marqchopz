@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marqchopz
+- 👋 Hi, I’m @simplecoder777
 - 👀 I’m interested in food
 - 🌱 I’m currently learning mathematics
 - 💞️ I’m looking to collaborate on internet
