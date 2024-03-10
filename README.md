@@ -5,6 +5,6 @@
 - 📫 Reach me out in simplecoder777 for free
 
 <!---
-simplecoder777/marqchopz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+simplecoder777/simplecoder777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
